@@ -1,2 +1,2 @@
-# Dictionnary
+# Dictionary
 English Dictionary in Python
